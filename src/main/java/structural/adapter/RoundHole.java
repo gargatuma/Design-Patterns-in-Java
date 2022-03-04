@@ -1,4 +1,4 @@
-package behavioral.adapter;
+package structural.adapter;
 
 public class RoundHole {
    private final int radius;

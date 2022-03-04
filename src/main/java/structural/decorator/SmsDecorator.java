@@ -1,4 +1,4 @@
-package behavioral.decorator;
+package structural.decorator;
 
 public class SmsDecorator extends Decorator{
 

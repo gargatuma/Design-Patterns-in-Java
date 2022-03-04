@@ -1,4 +1,4 @@
-package behavioral.bridge;
+package structural.bridge;
 
 public class MessageHandler extends Handler{
 

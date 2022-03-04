@@ -1,4 +1,4 @@
-package behavioral.bridge;
+package structural.bridge;
 
 public abstract class Handler {
     protected HandlerService service;

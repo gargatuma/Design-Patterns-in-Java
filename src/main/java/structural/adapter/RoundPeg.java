@@ -1,4 +1,4 @@
-package behavioral.adapter;
+package structural.adapter;
 
 public class RoundPeg {
     private int radius;

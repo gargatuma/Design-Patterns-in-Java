@@ -1,4 +1,4 @@
-package behavioral.decorator;
+package structural.decorator;
 
 public abstract class Decorator implements Notification{
     protected Notification notification;

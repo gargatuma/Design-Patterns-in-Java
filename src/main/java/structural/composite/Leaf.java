@@ -1,4 +1,4 @@
-package behavioral.composite;
+package structural.composite;
 
 public class Leaf implements Component{
     private final int price;

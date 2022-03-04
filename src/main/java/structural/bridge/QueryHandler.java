@@ -1,4 +1,4 @@
-package behavioral.bridge;
+package structural.bridge;
 
 public class QueryHandler extends Handler{
     public QueryHandler(HandlerService service) {

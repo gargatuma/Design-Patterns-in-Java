@@ -1,4 +1,4 @@
-package behavioral.composite;
+package structural.composite;
 
 public interface Component {
     int getPrice();
