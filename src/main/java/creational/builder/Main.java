@@ -5,7 +5,7 @@ public class Main {
         Message build = Message.builder()
                 .chatId("This is chatId")
                 .text("This is text")
-                .attachement("This is attachement")
+                .attachment("This is attachement")
                 .from("Me")
                 .to("you")
                 .size(9)

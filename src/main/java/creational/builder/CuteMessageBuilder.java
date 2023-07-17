@@ -21,7 +21,7 @@ public class CuteMessageBuilder implements MessageBuilder{
     }
 
     @Override
-    public MessageBuilder attachement(String attachement) {
+    public MessageBuilder attachment(String attachement) {
         this.attachement = attachement;
         return this;
     }
